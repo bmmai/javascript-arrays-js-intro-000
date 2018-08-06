@@ -33,6 +33,6 @@ function accessElementInArray(Array5, index1) {
   return Arr8;
 }
  function removeElementFromEndOfArray(Arr9) {
-  return Arr9.slice(0, Arr9.length - 1);
+arr9 = Arr9.slice(0, - 1);
   return Arr9;
 }
